@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = dhotman19@yahoo.com
+	name = Leo DHotman
